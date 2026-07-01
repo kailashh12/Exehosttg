@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-psutil
-Flask
-requests
-
